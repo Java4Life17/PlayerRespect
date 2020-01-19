@@ -1,0 +1,6 @@
+local: "en_US"
+joinAlert: true
+Format: "&e[&6%points%&e]"
+resetSeconds: 86400
+resetPoints: 3
+broadcast: true

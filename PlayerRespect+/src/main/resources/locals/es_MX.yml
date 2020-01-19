@@ -1,0 +1,24 @@
+#x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-xx-x-x-x-x-x-x-x-x-x-x-x-x-x
+# Los marcadores de posición que se pueden usar dentro de este archivo de configuración son los siguientes:
+# %player%: Esto devuelve el nombre del jugador y cambiará %player% por el nombre del jugador.
+# %points% Esto devuelve un número entero correspondiente a la cantidad de puntos que el jugador
+# tiene y emitirá sus puntos en su lugar.
+# %giver% Nombre del jugador que dio los puntos.
+# %receiver% Nombre del jugador que recivio los puntos.
+#x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x
+Prefix: "&8&l[&b&lRESPETO+&8&l]&r "
+dataLoad: "&aTus datos se han cargado %player%. Sus puntos cargados son %points%"
+dataCreated: "No existía ningún archivo de datos anterior para usted. ¡Creé con éxito uno para ti!"
+noPermission: "&c¡No tienes permiso para usar este comando!"
+invalidPlayer: "&c¡Parece que el jugador que eliges no está conectado o no existe!"
+invalidAmount: "&cEsa no es una valida de puntos."
+pointsGiven: "&aCon éxito se le dio %amount% puntos al jugador %receiver%"
+pointsReceived: "&aHa recibido %amount% puntos de parte de %giver%, Total ahora: %points%."
+pointsTaker: "&cÉxitosamente se tomaron %amount% de %receiver%."
+pointsTaken: "&a%amount% puntos fueron tomados de tu cuenta. Total ahora: %points%."
+pointsReset: "&aCon éxito se resetio los puntos de respetos de %receiver%."
+resetUser: "&aTus puntos han sido reiniciados."
+broadcast: "&aSe han restablecido todos los puntos del jugador."
+lowBudget: "&aParece que no tienes %amount% puntos para dar..."
+paySelf: "&cNo te puedes pagar a ti mismo!"
+total: "&aTus puntos en total son %points%"

@@ -1,0 +1,34 @@
+name: PlayerRespect
+version: 1.0.0
+main: playerrespect.playerrespect.PlayerRespect
+authors: [proxytimeout]
+description: Allow players on your server to pay eachother with respect.
+commands:
+  AdminRespect:
+    usage: /adminrespect <give, take, reset>
+    description: Admin permissions
+    aliases:
+      - aresp
+      - adminresp
+  respect:
+    usage: /respect <pay> <player> <amount>
+    aliases:
+      - resp
+      - rsp
+
+permissions:
+  respect.give:
+    description: Allow player to give points to another player.
+    default: not op
+  respect.take:
+    description: Allow player to take points from another player.
+    default: op
+  respect.reset:
+    description: Allow player to reset other player's points.
+    default: op
+  respect.player:
+    description: Permission for players to use the none op commands
+    default: true
+  respect.reload:
+    description: Allows player to reload the plugin
+    default: op

@@ -1,0 +1,25 @@
+#x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x
+# Place holders that can be usable inside this configuration file are the following:
+# %player% : This returns the name of the player and will change %player% for the
+# name of the player.
+# %points% This returns an integer corresponding to the amount of points the player.
+# %giver% Returns who gave you the points.
+# %receiver% Returns who received the points.
+# has and will output his points instead.
+#x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x
+Prefix: "&8&l[&b&lRESPECT+&8&l]&r "
+dataLoad: "&aYour data has been loaded %player%. Your loaded points are %points%"
+dataCreated: "&aNo previous data file existed for you. Successfully created one for you!"
+noPermission: "&cYou do not have permission to use this command!"
+invalidPlayer: "&cIt seems like the player you are choosing is either not connected, or does not exist!"
+invalidAmount: "&cInvalid amount. Please provide a valid number."
+pointsGiven: "&aSuccessfully payed %amount% points to player %receiver%"
+pointsReceived: "&aYou have received %amount% points from %giver%, Total now: %points%."
+pointsTaker: "&cSuccessfully taken %amount% points from %receiver%."
+pointsTaken: "&a%amount% points have been taking from your account. Total now: %points%"
+pointsReset: "&aSuccessfully reset respect points for %receiver%."
+resetUser: "&aYour Respect points have been reset."
+broadcast: "&aAll players' points have been reset"
+lowBudget: "&cIt seems like you don't have %amount% point(s) to give..."
+paySelf: "&cYou cannot pay respect to yourself!"
+total: "&aYour total points are %points%"
