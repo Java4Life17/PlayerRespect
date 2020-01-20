@@ -17,7 +17,7 @@ The plugin is pretty easy tu use.
 - [ChatControl](https://www.spigotmc.org/resources/%E2%99%A3-chatcontrol-pro%E2%84%A2-format-and-filter-your-chat-1-7-10-1-15-1.10258/)
 
 
-To display a player's points, you can simply put it in the chat format using thew word 'points'. This will only work in the chat formats. For example, UltraPermissions: &7[&bpoints&7] &d{Prefix} {Player}: {Message}. This can output [10] Owner proxytimeout: This is an example.
+To display a player's points, you can simply put it in the chat format using thew word 'respect'. This will only work in the chat formats. For example, UltraPermissions: &7[&brespect&7] &d{Prefix} {Player}: {Message}. This can output [10] Owner proxytimeout: This is an example.
 
 ## Spanish
 Este es un complemento que permite que los jugadores se respeten mutuamente. Esto puede ayudar a otros jugadores a saber si pueden confiar en otros según su nivel de respeto. Este no es un complemento necesario. Solo una pequeña característica en la que pensé.
@@ -34,7 +34,7 @@ El complemento es muy facil de usar.
 - [DeluxeChat](https://www.spigotmc.org/resources/deluxechat.1277/)
 - [ChatControl](https://www.spigotmc.org/resources/%E2%99%A3-chatcontrol-pro%E2%84%A2-format-and-filter-your-chat-1-7-10-1-15-1.10258/)
 
-Para mostrar los puntos de un jugador, simplemente puede ponerlo en el formato de chat usand la palabra 'points'. Esto solo funcionará en los formatos de chat. Por ejemplo, UltraPermissions: & 7 [&bpoints&7] &d{Prefix} {Player}: {Message}. Esto puede generar [10] Owner
+Para mostrar los puntos de un jugador, simplemente puede ponerlo en el formato de chat usand la palabra 'respect'. Esto solo funcionará en los formatos de chat. Por ejemplo, UltraPermissions: & 7 [&brespect&7] &d{Prefix} {Player}: {Message}. Esto puede generar [10] Owner
 Proxytimeout: este es un ejemplo.
 
 ------------------------------------------------------------------------------------------
