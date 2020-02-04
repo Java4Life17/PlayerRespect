@@ -16,10 +16,12 @@ In this information page you will see
 
 - To add a custom drop, first you have to go into your '**Configuration.yml**'
 - After this, you will visit this website where you can find all the mob types you can add to this file below
+
 [![N|Solid](<https://img.icons8.com/ios-filled/50/000000/share-2.png>)](https://github.com/proxytimeout/PlayerRespect/blob/master/Mobs)
 
 - After you hace choosen your have decided a mob type, you will go to '**Configuration.yml**' and under '**Mobs**' you will type in a custom name of your mob. Inside you will need 3 feilds which are Type, DropItem, Amount, Chance, and Animation. Next to **Type:**, you will place the name of your mobs.
 - Next to **DropItem**, you will place the item that will be dropped. You can find a list from the link below.
+
 [![N|Solid](<https://img.icons8.com/ios-filled/50/000000/share-2.png>)](https://github.com/proxytimeout/PlayerRespect/blob/master/Items)
 - After you set up the drop item type, you will need to put how many of that item you want the mob to drop. The amount has no limit. It is from 0 to infinity.
 - After you setup the amount, now you need to specify the chance of that item being dropped. It starts from 0 to 100. 0 being a low probability and 100 being all the time.
